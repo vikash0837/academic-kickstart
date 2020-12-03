@@ -1,37 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Vikash Kumar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student at Indian Institute of Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Indian Institute of Science
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning based domain adaptation for Computer Vision, learning in frequency domain.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Computer vision
+- Machine learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Deep Learning for Computer vision
+    institution: Indian Institute of Science
+    year: 2022
+  - course: B.Tech in Electronics and Electrical
+    institution: Indian Institute of Technology, Guwahati
+    year: 2015
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +41,13 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Vikash837000
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=53sZViQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/vikash0837
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Vikash Kumar is a graduate student at Indian Institute of Science. He is part of Visual Computing Lab in Computational and datasceince department. His research interests include Computer Vision problmes and their realworld applications, particularly Deep Learning based domain adaptation and learning in frequency domain.
+He graduated from Indian Institute of Technoloy with bachelors degree in Electronics and Electrical Engineering.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
