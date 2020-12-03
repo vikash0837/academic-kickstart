@@ -18,23 +18,23 @@ subtitle = ""
   icon = "Python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = "95%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "99%"  
+  description = "95%"  
 [[feature]]
   icon = "chalkboard"
   icon_pack = "fas"
   name = "Machine  Learning"
-  description = "80%"  
+  description = "85%"  
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Deep Learning"
-  description = "80%"
+  description = "85%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
