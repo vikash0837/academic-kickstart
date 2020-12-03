@@ -99,7 +99,7 @@ address = {street = "CV Raman Rd", city = "Bengaluru", region = "Karnataka", pos
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "13.023213390147802", longitude = "77.56951505481258"}
 # Directions for visitors to locate you.
-directions = "Enter through main gate near Prakruthi restaurant and go to COmputational and datascience department, 3rd Floor"
+directions = "Enter through main gate near Prakruthi restaurant, take your left and go to CDS department"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
