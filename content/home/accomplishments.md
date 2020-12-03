@@ -21,14 +21,41 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Convolutional Neural Networks"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/QDV2DAZ2JGTZ"
+  date_start = "2019-05-01"
   date_end = ""
   description = ""
 
 [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Sequence Models"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/B83RSF6ZRHBJ"
+  date_start = "2019-05-01"
+  date_end = ""
+  description = ""
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/JBBPJ2DCCDUL"
+  date_start = "2019-04-01"
+  date_end = ""
+  description = ""
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/9KBDF2SK6DJQ"
+  date_start = "2019-04-01"
+  date_end = ""
+  description = ""
+<!-- [[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
@@ -36,9 +63,9 @@ date_format = "Jan 2006"
   certificate_url = "https://www.edx.org"
   date_start = "2018-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Formulated informed blockchain models, hypotheses, and use cases." -->
   
-[[item]]
+<!-- [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
   title = "Object-Oriented Programming in R: S3 and R6 Course"
@@ -46,6 +73,6 @@ date_format = "Jan 2006"
   certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
-  description = ""
+  description = "" -->
 
 +++
