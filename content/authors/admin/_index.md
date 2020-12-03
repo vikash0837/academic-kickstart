@@ -10,7 +10,7 @@ role: Graduate Student at Indian Institute of Science
 
 # Organizations/Affiliations
 organizations:
-- name: Indian Institute of Science
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
