@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Vikash Kumar is a graduate student at Indian Institute of Science. He is part of Visual Computing Lab in Computational and datasceince department. His research interests include Computer Vision problmes and their realworld applications, particularly Deep Learning based domain adaptation and learning in frequency domain.
-He graduated from Indian Institute of Technoloy with bachelors degree in Electronics and Electrical Engineering.
+Vikash Kumar is a graduate student at Indian Institute of Science. He is part of Visual Computing Lab in Computational and Data Sceinces department. His research interests include Computer Vision problmes and their realworld applications, particularly Deep Learning based domain adaptation and learning in frequency domain.
+He graduated from Indian Institute of Technoloy, Guwahati with bachelors degree in Electronics and Electrical Engineering.
 
 
