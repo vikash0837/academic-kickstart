@@ -9,9 +9,9 @@ superuser: true
 role: Graduate Student at Indian Institute of Science
 
 # Organizations/Affiliations
-organizations:
-- name: ""
-  url: ""
+# organizations:
+# - name: ""
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep learning based domain adaptation for Computer Vision, learning in frequency domain.
