@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD in Deep Learning for Computer vision
     institution: Indian Institute of Science
-    year: 2022
+    year: 2019 - 2023
   - course: B.Tech in Electronics and Electrical
     institution: Indian Institute of Technology, Guwahati
     year: 2015
@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Vikash Kumar is a graduate student at Indian Institute of Science. He is part of Visual Computing Lab in Computational and Data Sceinces department. His research interests include Computer Vision problmes and their realworld applications, particularly Deep Learning based domain adaptation and learning in frequency domain.
+Vikash Kumar is a graduate student at Indian Institute of Science. He is part of Visual Computing Lab in Computational and Data Sciences department. His research interests include Computer Vision problmes and their realworld applications, particularly Deep Learning based domain adaptation and learning in frequency domain.
 He graduated from Indian Institute of Technoloy, Guwahati with bachelors degree in Electronics and Electrical Engineering.
 
 
